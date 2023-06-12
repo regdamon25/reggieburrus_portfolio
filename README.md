@@ -81,6 +81,20 @@
 
 | Color          | Hex                                                                |
 | -------------- | ------------------------------------------------------------------ |
+| Dark Navy      | ![#DBE3EB](https://via.placeholder.com/10/DBE3EB?text=+) `#DBE3EB` |
+| Navy           | ![#DDE6ED](https://via.placeholder.com/10/DDE6ED?text=+) `#DDE6ED` |
+| Light Navy     | ![#BDB8BC](https://via.placeholder.com/10/BDB8BC?text=+) `#BDB8BC` |
+| Lightest Navy  | ![#2A5074](https://via.placeholder.com/10/2A5074?text=+) `#2A5074` |
+| Slate          | ![#000000](https://via.placeholder.com/10/000000?text=+) `#000000` |
+| Light Slate    | ![#082032](https://via.placeholder.com/10/082032?text=+) `#082032` |
+| Lightest Slate | ![#334756](https://via.placeholder.com/10/334756?text=+) `#334756` |
+| White          | ![#fffbff](https://via.placeholder.com/10/fffbff?text=+) `#fffbff` |
+| Highlight      | ![#EF5A23](https://via.placeholder.com/10/EF5A23?text=+) `#EF5A23` |
+
+### Light
+
+| Color          | Hex                                                                |
+| -------------- | ------------------------------------------------------------------ |
 | Dark Navy      | ![#02040f](https://via.placeholder.com/10/02040f?text=+) `#02040f` |
 | Navy           | ![#000000](https://via.placeholder.com/10/000000?text=+) `#000000` |
 | Light Navy     | ![#011627](https://via.placeholder.com/10/011627?text=+) `#011627` |
@@ -89,21 +103,8 @@
 | Light Slate    | ![#ced4da](https://via.placeholder.com/10/ced4da?text=+) `#ced4da` |
 | Lightest Slate | ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) `#ffffff` |
 | White          | ![#e6f1ff](https://via.placeholder.com/10/e6f1ff?text=+) `#e6f1ff` |
-| Highlight      | ![#e63946](https://via.placeholder.com/10/e63946?text=+) `#e63946` |
+| Highlight      | ![#EF5A23](https://via.placeholder.com/10/EF5A23?text=+) `#EF5A23` |
 
-### Light
-
-| Color          | Hex                                                                |
-| -------------- | ------------------------------------------------------------------ |
-| Dark Navy      | ![#FFFCF2](https://via.placeholder.com/10/FFFCF2?text=+) `#FFFCF2` |
-| Navy           | ![#fbfefb](https://via.placeholder.com/10/fbfefb?text=+) `#fbfefb` |
-| Light Navy     | ![#ffffff](https://via.placeholder.com/10/ffffff?text=+) `#ffffff` |
-| Lightest Navy  | ![#bcb8b1](https://via.placeholder.com/10/bcb8b1?text=+) `#bcb8b1` |
-| Slate          | ![#000000](https://via.placeholder.com/10/000000?text=+) `#000000` |
-| Light Slate    | ![#082032](https://via.placeholder.com/10/082032?text=+) `#082032` |
-| Lightest Slate | ![#334756](https://via.placeholder.com/10/334756?text=+) `#334756` |
-| White          | ![#fffbff](https://via.placeholder.com/10/fffbff?text=+) `#fffbff` |
-| Highlight      | ![#e63946](https://via.placeholder.com/10/e63946?text=+) `#e63946` |
 
 ## 📌 Credits
 
@@ -129,7 +130,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## ✉️ Contact
 
-Hamza Mounir - [@pixlhamza](https://twitter.com/pixlhamza) - hamza.pixelle@gmail.com
+Reggie Burrus - [@devandbeyond](https://twitter.com/devandbeyond) - devandbeyond2020@gmail.com
 
 ## ✅ Support
 
