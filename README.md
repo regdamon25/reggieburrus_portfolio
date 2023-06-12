@@ -7,33 +7,8 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/hamzaPixl/hmounir/master/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://c4hxpstorageaccount.blob.core.windows.net/images/DevandBeyond_Logo.svg" width="100" />
 </div>
-<h1 align="center">
-  hmounir.com - v2
-</h1>
-<p align="center">
-  The second iteration of <a href="https://hmounir.com" target="_blank">hmounir.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
-</p>
-<p align="center">
-  Previous iterations:
-  <a href="https://github.com/hamzaPixl/hamza.io" target="_blank">v1</a>
-</p>
-<p align="center">
-  <a href="https://app.netlify.com/sites/hmounir/deploys" target="_blank">
-    <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
-  </a>
-</p>
-
-<p align="center">
-  Generate Typescript code from protobuf message
-  <br />
-  <a href="https://github.com/hamzaPixl/protobuf-ts-generator/issues">Report Bug</a>
-  ·
-  <a href="https://github.com/hamzaPixl/protobuf-ts-generator/issues">Request Feature</a>
-</p>
-
-![demo](https://raw.githubusercontent.com/hamzaPixl/hmounir/master/src/images/demo.png)
 
 ## 🛠 Installation & Set Up
 
