@@ -117,7 +117,7 @@ const StyledProject = styled.li`
 
   .project-overline {
     margin: 10px 0;
-    color: ${props => props.theme.higlight};
+    color: ${props => props.theme.highlight};
     font-family: var(--font-mono);
     font-size: var(--fz-xs);
     font-weight: 400;
@@ -165,6 +165,7 @@ const StyledProject = styled.li`
       padding: 20px 0;
       background-color: transparent;
       box-shadow: none;
+      
 
       &:hover {
         box-shadow: none;
@@ -242,7 +243,7 @@ const StyledProject = styled.li`
     @media (max-width: 768px) {
       grid-column: 1 / -1;
       height: 100%;
-      
+      opacity: 0.12;
     }
 
     a {
@@ -275,6 +276,7 @@ const StyledProject = styled.li`
         bottom: 0;
         z-index: 3;
         transition: var(--transition);
+        background-color: var(--highlighttint);
         mix-blend-mode: screen;
       }
     }
@@ -289,8 +291,10 @@ const StyledProject = styled.li`
         object-fit: cover;
         width: auto;
         height: 100%;
-        filter: grayscale(100%) contrast(1) brightness(80%);
+        filter: grayscale(100%) contrast(1) brightness(50%);
         margin-left: auto;
+        
+        
       }
     }
   }

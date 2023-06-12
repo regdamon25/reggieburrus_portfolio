@@ -5,7 +5,7 @@ module.exports = {
     title: 'Reginald Burrus',
     description:
       'Reginald Burrus is a software engineer who loves to create different kind of projects and share them.',
-    siteUrl: 'https://reginaldburrus.com',
+    siteUrl: 'https://reggieburrus.com',
     image: '/og.png',
     twitterUsername: '@devandbeyond',
   },
