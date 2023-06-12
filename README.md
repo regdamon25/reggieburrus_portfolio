@@ -83,7 +83,7 @@
 
 ## 📌 Credits
 
-Big up to [Brittany Chiang](https://brittanychiang.com) for her project that inspire me to adapt it on m own, Thanks!
+Special thanks to [Brittany Chiang](https://brittanychiang.com) for her inspiring project that motivated me to adapt and incorporate it into my own work. Much appreciated!
 
 ## 📈 Roadmap
 
@@ -117,18 +117,18 @@ Give a ⭐️ if you like this project!
 
 Project base from [bchiang7-v4](https://github.com/bchiang7/v4)
 
-[contributors-shield]: https://img.shields.io/github/contributors/hamzaPixl/hmounir.svg?style=for-the-badge
-[contributors-url]: https://github.com/hamzaPixl/hmounir/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/hamzaPixl/hmounir.svg?style=for-the-badge
-[forks-url]: https://github.com/hamzaPixl/hmounir/network/members
-[stars-shield]: https://img.shields.io/github/stars/hamzaPixl/hmounir.svg?style=for-the-badge
-[stars-url]: https://github.com/hamzaPixl/hmounir/stargazers
-[issues-shield]: https://img.shields.io/github/issues/hamzaPixl/hmounir.svg?style=for-the-badge
-[issues-url]: https://github.com/hamzaPixl/hmounir/issues
-[license-shield]: https://img.shields.io/github/license/hamzaPixl/hmounir.svg?style=for-the-badge
-[license-url]: https://github.com/hamzaPixl/hmounir/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/regdamon25/reggieburrus_portfolio.svg?style=for-the-badge
+[contributors-url]: https://github.com/regdamon25/reggieburrus_portfolio/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/regdamon25/reggieburrus_portfolio.svg?style=for-the-badge
+[forks-url]: https://github.com/regdamon25/reggieburrus_portfolio/network/members
+[stars-shield]: https://img.shields.io/github/stars/regdamon25/reggieburrus_portfolio.svg?style=for-the-badge
+[stars-url]: https://github.com/regdamon25/reggieburrus_portfolio/stargazers
+[issues-shield]: https://img.shields.io/github/issues/regdamon25/reggieburrus_portfolio.svg?style=for-the-badge
+[issues-url]: https://github.com/regdamon25/reggieburrus_portfolio/issues
+
+[license-url]: https://github.com/regdamon25/reggieburrus_portfolio/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/hamza-mounir-0a7bb6139/
+[linkedin-url]: https://www.linkedin.com/in/reginald-burrus-2194ab42/
 =======
 # rburrus_portfolio
 This GitHub repository contains the source code for my personal software developer portfolio site. The portfolio site showcases my skills, projects, and experience as a software developer. It serves as a central hub to demonstrate my expertise and highlight my achievements in the field.
